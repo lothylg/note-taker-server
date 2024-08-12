@@ -21,7 +21,7 @@ app.get('/api/notes', (req, res) => {
         let dbData = JSON.parse(data);
         //Returns new database
         res.json(dbData)
-    });   
+    });
 })
 
 //POST 
