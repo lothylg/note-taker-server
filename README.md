@@ -17,6 +17,9 @@ https://github.com/lothylg/note-taker-server
 
 ## Screenshots of final application
 
+![Screen Shot 2024-08-11 at 10 31 30 PM](https://github.com/user-attachments/assets/c4a296e0-049d-4ca6-ad6d-ca9c04be81b3)
+![Screen Shot 2024-08-11 at 10 29 26 PM](https://github.com/user-attachments/assets/aefd7b23-6bfc-4a09-862c-33335043c58c)
+
 
 
 
